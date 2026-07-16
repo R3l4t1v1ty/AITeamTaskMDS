@@ -1,3 +1,4 @@
+from __future__ import annotations
 from home import *
 from smart_devices import *
 from traits import *
