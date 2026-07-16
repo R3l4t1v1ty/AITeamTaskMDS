@@ -1,3 +1,4 @@
+from __future__ import annotations
 from typing import TypeVar
 from smart_devices import SmartDevice
 from traits import Measurable, PowerUsage, Reading, Switchable, Trait
