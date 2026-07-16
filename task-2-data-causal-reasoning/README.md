@@ -13,6 +13,7 @@ pip install pandas numpy scipy statsmodels matplotlib seaborn
 python analysis.py
 ```
 
+Requires python 3.14+
 
 ## 1. Exploratory analysis
 
