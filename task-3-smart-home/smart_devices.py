@@ -1,3 +1,4 @@
+from __future__ import annotations
 from traits import *
 from typing import TypeVar, Type, Callable
 
